@@ -1,0 +1,1 @@
+# ClickFreeWin7Plugin
